@@ -61,19 +61,6 @@
 
 </td></tr></table>
 
-## Connect with me  
-<div align="center" style="margin: 2em 0;">
- <a href="https://www.linkedin.com/in/szabolcs-bence-klaben" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
- </a>
- <a href="https://stackoverflow.com/users/22783412/kl%C3%A1ben-szabolcs-bence" target="_blank">
-  <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow />
- </a>
- <a href="mailto:szabolcs.bence@klaben.hu" target="_blank">
-   <img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=email&logoColor=white alt=email />
- </a>
-</div>
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=klaben-szabolcs-bence&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
